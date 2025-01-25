@@ -13,7 +13,7 @@ The Employee Attendance Tracker is a streamlined solution for managing and autom
 
 **1. Code**
 
-This folder contains the main Google Apps Script files that power the attendance tracking system.
+This file contains the main Google Apps Script files that power the attendance tracking system.
 
 **Key Features:**
 
@@ -31,7 +31,7 @@ This folder contains the main Google Apps Script files that power the attendance
 
 **2. UI**
 
-This folder contains Google Apps Script files for building an intuitive interface within Google Sheets.
+This file contains Google Apps Script files for building an intuitive interface within Google Sheets.
 
 **Features:**
 
